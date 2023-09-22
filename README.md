@@ -1,4 +1,4 @@
-# Trabalho realizado para a disciplina *Introdução à Ciência de Dados com Python*, do curso de Economia, da Faculdade Getúlio Vargas - Rio
+# Trabalho realizado para a disciplina *Introdução à Ciência de Dados com Python*, do curso de Economia, da Faculdade FGV - Rio
 
 ## - Dados utilizados:
 - Os dados de felicidade coletados do site Kaggle, disponíveis no link: https://www.kaggle.com/datasets/meeratif/happiness-index
